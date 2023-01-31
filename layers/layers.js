@@ -57,3 +57,4 @@ lyr_KonektivitasAngkutan_2.set('fieldLabels', {'Name': 'no label', 'description'
 lyr_KonektivitasAngkutan_2.on('precompose', function(evt) {
     evt.context.globalCompositeOperation = 'normal';
 });
+
